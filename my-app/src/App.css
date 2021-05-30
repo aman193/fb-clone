@@ -1,0 +1,9 @@
+.app {
+  background-color: rgb(235, 233, 233);
+  height: 100%;
+  /* background-attachment: fixed; */
+}
+
+.app_body {
+  display: flex;
+}

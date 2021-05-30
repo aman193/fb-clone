@@ -1,0 +1,11 @@
+.sidebar {
+  padding: 20px 10px;
+  flex: 0.33;
+  position: sticky;
+}
+
+@media only screen and (max-width: 580px) {
+  .sidebar {
+    display: none;
+  }
+}
